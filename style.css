@@ -59,4 +59,8 @@ body {
         width: 100%;
         display: block;
     }
+
+    #hide {
+        display: block;
+    }
 }
